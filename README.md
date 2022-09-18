@@ -9,7 +9,7 @@ Ulul</a></h1>
 
 - 🔭 I’m currently working in <a href="https://anteraja.id/id/" target="blank">Anteraja</a>
 
-- 🌱 I’m currently Working on Software Quality Assurance Engineer
+- 🌱 I’m currently Working on **Software Quality Assurance Engineer**
 
 - 🤝 I’m available for freelancing.
 
